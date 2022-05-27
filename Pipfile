@@ -8,6 +8,7 @@ symforce = "*"
 numpy = "*"
 pandas = "*"
 matplotlib = "*"
+jupyter = "*"
 
 [dev-packages]
 
